@@ -41,11 +41,5 @@
         }
       ]
     }
-  ],
-  "rewrites": [
-    {
-      "source": "/((?!icons/|manifest.json|sw.js).*)",
-      "destination": "/index.html"
-    }
   ]
 }
