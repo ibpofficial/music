@@ -1,0 +1,19 @@
+{
+  "name": "aura-music",
+  "version": "2.0.0",
+  "description": "Aura Music Player with YouTube Integration, Smart Radio, and Firebase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "music",
+    "youtube",
+    "firebase",
+    "streaming",
+    "aura"
+  ],
+  "author": "Aura Music Team",
+  "license": "ISC"
+}
